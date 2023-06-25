@@ -18,3 +18,8 @@ This will allow WHMCS admins/staffs to update clients/users password from admin 
 
 ### Notice
 I have implemented permission yet. So, all your staffs who have access to profile edit page of clients can update password.
+
+## Support
+<p><a href="https://www.buymeacoffee.com/arafatkn" target="_blank"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="arafatkn" /></a></p>
+<br/><br/><br/>
+and don't forget to give a star :star: for this repo :point_up:.

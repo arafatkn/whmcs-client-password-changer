@@ -7,7 +7,7 @@ This will allow WHMCS admins/staffs to update clients/users password from admin 
 - [ ] Send Email to Client with new password.  
 
 ### How to Install
-- Go to Your %WHMCS_PATH%/modules/addons and create the folder "client-password-changer".
+- Go to Your `%WHMCS_PATH%/modules/addons` folder and upload the folder `client_password_changer` there.
 - Then Go to Admin Panel >> Settings >> System Settings >> Addon Modules >> Active the "Change User Password" module.
 
 ### How to Use
